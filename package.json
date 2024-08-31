@@ -16,7 +16,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "batch": "~0.3.2",
-    "cheerio": "v1.0.0-rc.12",
+    "cheerio": "1.0.0",
     "coffee-script": "1",
     "superagent": "~0.14.0"
   }
